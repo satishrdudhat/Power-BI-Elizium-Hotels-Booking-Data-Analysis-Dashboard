@@ -54,7 +54,7 @@ View Dashboard  :  Elizium Hotels Booking Data Analysis Dashboard  <br>
 •	Business vs. Leisure Revenue: 
    - Business: 61.61%
    - Leisure: 38.39%
-   - 
+ 
 •	Cancellation Rate: 24.83%
 
 ## Final Conclusion
